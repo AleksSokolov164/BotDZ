@@ -1,2 +1,5 @@
+python~=3.12.3
 aiogram~=3.5.0
 python-dotenv~=1.0.1
+
+
